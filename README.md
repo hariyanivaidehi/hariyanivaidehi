@@ -1,4 +1,4 @@
-# Hey there! I'm Vaidehi Hariyani 👋
+# Hey there! I'm Vaidehi 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+Next.js+Enthusiast;Aspiring+MERN+Stack+Developer" alt="Typing SVG" />
