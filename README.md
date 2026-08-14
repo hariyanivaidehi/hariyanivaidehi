@@ -18,11 +18,11 @@ I'm a passionate developer with a serious focus on crafting clean, responsive, a
 
 ### 💫 About Me
 
-I am a passionate **Frontend Developer** who loves designing and developing clean, responsive, and user-friendly **websites**. Currently, I am focusing heavily on building web layouts using **React.js**, and my goal is to transition into a full-fledged **MERN Stack Developer**.
+I specialize in building modular frontends using **React.js** and **Next.js**, styled with modern CSS frameworks like **Tailwind CSS**. Currently, I am expanding my skillset into backend development with **Node.js**, **Express.js**, and **MongoDB** to build full-fledged MERN stack web applications.
 
-- 🔭 **Current Focus**: Working on websites with **React.js** and **Tailwind CSS**.
-- 📚 **Learning Path**: Planning to learn **Node.js**, **Express.js**, and **MongoDB** to build full-stack websites.
-- 💡 **Goal**: To build modern, high-quality websites and continuously improve my development skills.
+- 🔭 **Current Focus**: Developing responsive user interfaces with **React.js** & **Next.js**, styled with **Tailwind CSS**.
+- 📚 **Learning Path**: Deep-diving into backend APIs using **Node.js**, **Express.js**, and **MongoDB**.
+- 🎯 **Goal**: Transitioning into a professional MERN Stack Developer, building complete web solutions from scratch.
 - 🛠️ **Favorite Tooling**: **Visual Studio Code**, **Git**, and **GitHub**.
 
 ---
