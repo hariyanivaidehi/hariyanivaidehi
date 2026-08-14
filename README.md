@@ -1,4 +1,4 @@
-<img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/generic.svg" alt="Vaidehi Hariyani" />
+<img align="right" height="220px" src="https://raw.githubusercontent.com/hariyanivaidehi/hariyanivaidehi/main/developer.svg" alt="Vaidehi Hariyani" />
 
 # Hey there! I'm Vaidehi 👋🏻
 
@@ -47,10 +47,7 @@ I am a passionate **Frontend Developer** who loves designing and developing clea
     <td valign="top" width="50%">
       <h4 align="center">⚙️ Backend & Database</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
       <h4 align="center">🛠️ Tools & Version Control</h4>
