@@ -17,7 +17,7 @@
 I am a passionate **Frontend Developer** who loves designing and developing clean, responsive, and user-friendly **websites**. Currently, I am focusing heavily on building web layouts using **React.js**, and my goal is to transition into a full-fledged **MERN Stack Developer**.
 
 - 🔭 **Current Focus**: Working on websites with **React.js** and **Tailwind CSS**.
-- 📚 **Learning Path**: Planning to learn **Node.js**, **Express.js**, and **MongoDB** to build full-stack applications.
+- 📚 **Learning Path**: Planning to learn **Node.js**, **Express.js**, and **MongoDB** to build full-stack websites.
 - 💡 **Goal**: To build modern, high-quality websites and continuously improve my development skills.
 - 🛠️ **Favorite Tooling**: **Visual Studio Code**, **Git**, and **GitHub**.
 
