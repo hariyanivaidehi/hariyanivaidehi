@@ -62,11 +62,11 @@ I am a passionate **Frontend Developer** who loves designing and developing clea
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hariyanivaidehi1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/vaidehi-hariyyani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
