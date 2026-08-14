@@ -1,10 +1,11 @@
-<img align="right" height="220px" src="https://raw.githubusercontent.com/hariyanivaidehi/hariyanivaidehi/main/developer.svg" alt="Vaidehi Hariyani" />
+<img align="right" height="220px" src="./developer.svg" alt="Vaidehi Hariyani" />
 
 # Hey there! I'm Vaidehi 👋🏻
 
-I'm a passionate **Frontend Developer** with a serious focus on crafting clean, responsive, and user-friendly websites. I love bringing ideas to life with modern UI effects and smooth animations.
+### Aspiring MERN Stack Developer 🚀
 
-🌱 I’m currently learning **React.js** & **Next.js**  
+I'm a passionate developer with a serious focus on crafting clean, responsive, and user-friendly websites. I love bringing ideas to life with modern UI effects and smooth animations.
+
 💻 [Check out my portfolio](https://vaidehihariyaniportfolio.netlify.app/)
 
 <p align="left" style="margin-top: 15px;">
