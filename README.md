@@ -1,10 +1,13 @@
-# Hey there! I'm Vaidehi 👋
+<img align="right" height="220px" src="https://appservice.azureedge.net/images/linux-landing-page/v3/generic.svg" alt="Vaidehi Hariyani" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+Next.js+Enthusiast;Aspiring+MERN+Stack+Developer" alt="Typing SVG" />
-</p>
+# Hey there! I'm Vaidehi 👋🏻
 
-<p align="center">
+I'm a passionate **Frontend Developer** with a serious focus on crafting clean, responsive, and user-friendly websites. I love bringing ideas to life with modern UI effects and smooth animations.
+
+🌱 I’m currently learning **React.js** & **Next.js**  
+💻 [Check out my portfolio](https://vaidehihariyaniportfolio.netlify.app/)
+
+<p align="left" style="margin-top: 15px;">
   <a href="https://github.com/hariyanivaidehi">
     <img src="https://img.shields.io/github/followers/hariyanivaidehi?label=Followers&style=social" alt="GitHub Followers" />
   </a>
