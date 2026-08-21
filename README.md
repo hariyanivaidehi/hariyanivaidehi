@@ -70,7 +70,7 @@ I specialize in building modular frontends using **React.js** and **Next.js**, s
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vaidehi-hariyyani" target="_blank">
+  <a href="https://www.linkedin.com/in/vaidehi-hariyani-15b0a4381" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
