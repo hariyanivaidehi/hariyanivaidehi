@@ -7,13 +7,6 @@
 I'm a passionate developer with a serious focus on crafting clean, responsive, and user-friendly websites. I love bringing ideas to life with modern UI effects and smooth animations.
 
 💻 [Check out my portfolio](https://vaidehihariyaniportfolio.netlify.app/)
-
-<p align="left" style="margin-top: 15px;">
-  <a href="https://github.com/hariyanivaidehi">
-    <img src="https://img.shields.io/github/followers/hariyanivaidehi?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 ---
 
 ### 💫 About Me
